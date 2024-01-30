@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>1701  Today is monday 2901 : k8s E2E Session Completed  : devops CI/CD  Session 07Jan to deploy to docker : Try again   </h1>
+    <h1>1701  Today is Tuesday 2901 : k8s E2E Session Completed  : devops CI/CD  Session 07Jan to deploy to docker : Try again   </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter your Name</b></label>
+    <label for="Name"><b>Enter your Name Sunil</b></label>
     <input type="text" placeholder="Enter your  Full Name" name="Name" id="Name" required>
     <br>
     
